@@ -1,0 +1,4 @@
+*.csv~
+pycache/
+.DS_Store
+.vscode/
